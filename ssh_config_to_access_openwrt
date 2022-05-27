@@ -1,0 +1,8 @@
+Host    		owrt
+Port    		12345
+User			root
+PubkeyAcceptedKeyTypes	ssh-rsa
+HostKeyAlgorithms	ssh-rsa
+PasswordAuthentication	no
+PubkeyAuthentication	yes
+
